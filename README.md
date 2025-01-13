@@ -24,11 +24,14 @@ public class Main {
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> 
-<img src="https://img.shields.io/badge/-JSON-lightgray?style=flat&logo=json&link=https://github.com/Quananhle/Java-Web-Developer)](https://github.com/Quananhle/Java-Web-Developer)>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Souravdey777&show_icons=true&hide_border=true) 
+<img align="left" alt="Costanza git hub stats" src="https://github-readme-stats.vercel.app/api?username=Costanza94&show_icons=true" />    &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Costanza94)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+
+
+<img  src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
