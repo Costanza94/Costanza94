@@ -18,19 +18,24 @@ public class Main {
  }
 }
 ```
+
 ---
-### Tech & Tools Preference 👩‍💻  <img align='right' src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" width="400">
+<div align="center">
+    
+### Tech & Tools Preference 👩‍💻  
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> 
 
-<img alt="Costanza git hub stats" src="https://github-readme-stats.vercel.app/api?username=Costanza94&show_icons=true" />    &nbsp;
-
+    
+<div align="center">
+    
+<img align = 'center' alt="Costanza git hub stats" src="https://github-readme-stats.vercel.app/api?username=Costanza94&show_icons=true" />    &nbsp;
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Costanza94)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<img align='center' src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" width="400"> </div>
 ---
 
 <div align="center">
