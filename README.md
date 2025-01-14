@@ -7,7 +7,7 @@
 [![GitHub Costanza](https://img.shields.io/github/followers/costanza?label=follow&style=social)](https://github.com/Costanza94)
 
 
-### <img align='center' src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me ❀  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me ❀  
 
 ```java 
 public class Main {
