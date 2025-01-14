@@ -25,7 +25,9 @@ public class Main {
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> 
 
-<img align="left" alt="Costanza git hub stats" src="https://github-readme-stats.vercel.app/api?username=Costanza94&show_icons=true" />    &nbsp;
+<img alt="Costanza git hub stats" src="https://github-readme-stats.vercel.app/api?username=Costanza94&show_icons=true" />    &nbsp;
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Costanza94)](https://github.com/anuraghazra/github-readme-stats)
 
 
