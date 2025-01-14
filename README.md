@@ -17,8 +17,8 @@ public class Main {
   tools: [SQL,Spring Boot, Maven,]
  }
 }
-
 ```
+---
 ### Tech & Tools Preference 👩‍💻  <img align='right' src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" width="400">
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
@@ -29,11 +29,16 @@ public class Main {
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Costanza94)](https://github.com/anuraghazra/github-readme-stats)
 
 
+---
 
+<div align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/238201082-761f4c99-eda3-4c9a-a4ec-2b6311e2433a.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzY4NDk2NTIsIm5iZiI6MTczNjg0OTM1MiwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDEwODItNzYxZjRjOTktZWRhMy00YzlhLWE0ZWMtMmI2MzExZTI0MzNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTE0VDEwMDkxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgxNTc0MGFmOTBkMGQ5YzBjMWRkNTYxMmZkZTViMTliNzZlZWZlYjZlNWVlNjE1NzVkOGIzZmYyZGU4NTM2YTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.zta6ow8hva3kUfPHSJj3bVfdAUnarNrcfv74JI298N8" width="60" alt="Gif">
+  <em>
+    <b>I love connecting with different people</b>, so if you want to say 
+    <b>hi, I'll be happy to meet you more!</b> 🍓
+  </em>
+</div>
 
- <img align='center' src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
--------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 ⭐️ From [@Costanza](https://github.com/Costanza94)
