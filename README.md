@@ -12,7 +12,6 @@
 ```java 
 public class Main {
     public static void main(String[] args) {
-  pronouns: "she" | "her",
   code: [Java]
   tools: [SQL,Spring Boot, Maven,]
  }
