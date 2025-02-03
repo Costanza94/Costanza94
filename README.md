@@ -12,9 +12,11 @@
 ```java 
 public class Main {
     public static void main(String[] args) {
-  code: [Java]
-  tools: [SQL,Spring Boot, Maven,]
- }
+        // 🚀 Always learning, always growing!
+        String code = "Java";
+        String[] tools = {"SQL", "Spring Boot", "Maven", "Docker"};
+        String favoriteTech = "Microservices & Cloud";
+    }
 }
 ```
 
